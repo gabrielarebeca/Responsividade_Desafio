@@ -18,4 +18,5 @@
 
 ![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/7ca6dd88-f0a8-40a0-8f76-e163c2887e7b)
 
+Após chegar em um largura de 450px o menu se torna um scroll permitindo que o usuario possa selecionar a opção desejada
 
