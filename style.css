@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    height: 90px;
+}
+
+.logo {
+    float: center;
+    margin: 20px;
+    width: 270px;
+    height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .header {
+        height: 70px;
+    }
+    
+    .logo {
+        width: 190px;
+        height: 70px;
+    }
+}
+
+.nav {
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+ul {
+    overflow: hidden;
+    background-color: #434648;
+    padding: 8px;
+    position: sticky;
+}
+
+li {
+    display: inline;
+    float: center;
+}
+
+a {
+    color: #F5F5F5;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 16px;
+}
+
+a:hover {
+    color: #434648;
+    background-color: #F5F5F5;
+}
+
+.txt {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+    ul {
+      float: none;
+      display: grid;
+      max-height: 40px;
+      overflow: auto;
+      padding: 8px;
+      width: 100%;
+      margin: auto;
+      text-align: center;
+    }
+
+    li {
+        margin-bottom: 13px;
+    }
+    a:hover {
+        display:flex;
+        max-height: 5px;
+    }
+}
+
+.art {
+    float: left;
+    width: 25%;
+    padding: 20px;
+    margin-left: 70px;
+}
+
+.container {
+    display: table;
+}
+
+.avif {
+    width: 250px;
+    height: 120px;
+}
+
+@media screen and (max-width: 760px) {
+    .art {
+      margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    .art {
+      width: 100%;
+      margin-left: 0px;
+      justify-content: center;
+      justify-items: center;
+      text-align: center;
+    }
+  }
+
+.footer {
+    display: flex;
+    float: end;
+    color: #F5F5F5;
+    background-color: #434648;
+    justify-content: center;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .footer {
+        font-size: small;
+    }
+}
