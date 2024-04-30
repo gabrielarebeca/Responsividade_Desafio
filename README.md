@@ -1,6 +1,9 @@
 # Responsividade_Desafio
 
-1280 * 800
+Após chegar em um largura de 450px o menu se torna um scroll permitindo que o usuario possa selecionar a opção desejada
+![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/6a89b568-fbea-45bd-94c7-2b8eb5393afd)
+
+1280 * 800 
 
 ![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/c8866376-73fa-4122-a3d5-1b95ab992f29)
 
@@ -17,6 +20,3 @@
 ![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/67595321-1b10-4af1-b128-ea12e93022f5)
 
 ![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/7ca6dd88-f0a8-40a0-8f76-e163c2887e7b)
-
-Após chegar em um largura de 450px o menu se torna um scroll permitindo que o usuario possa selecionar a opção desejada
-
