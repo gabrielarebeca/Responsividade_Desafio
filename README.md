@@ -1,6 +1,24 @@
-# Responsividade_Desafio
+# 📱 Responsividade - Desafio
 
-Após chegar em um largura de 450px o menu se torna um scroll permitindo que o usuario possa selecionar a opção desejada
+Este projeto é um **desafio de desenvolvimento de uma página responsiva**, utilizando apenas **HTML e CSS**, com o objetivo de garantir uma boa experiência de visualização em diferentes tamanhos de tela — desde desktops até dispositivos móveis.
+
+## 📌 Sobre o Projeto
+
+A proposta deste desafio é aplicar técnicas de **design responsivo**, como media queries, flexbox e porcentagens, para garantir que o conteúdo da página se adapte corretamente a diferentes resoluções de tela.
+
+## ⚙️ Funcionalidades
+
+- 🧭 Layout flexível e adaptável  
+- 📱 Visual responsivo em celulares, tablets e desktops  
+- 🧩 Estrutura HTML organizada e semântica  
+- 🎨 Estilização com CSS3
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3 (com Media Queries e Flexbox)**
+
+## 🖼️ Captura de Tela
 
 ![image](https://github.com/gabrielarebeca/Responsividade_Desafio/assets/110422932/3e132068-eba6-46f6-91d7-2c42be300f34)
 
